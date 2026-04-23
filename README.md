@@ -1,16 +1,22 @@
-## Hi there 👋
+# Amen Allah Zoglami
 
-<!--
-**Aymenzoglami/Aymenzoglami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** · React · Node.js (TypeScript) · C · Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Who?**  
+  20-year-old software engineer and first-year student at Honoris Centrale University. Passionate about building robust, high-performance web applications.
+
+- **Current focus**  
+  Architecting a full-stack web-based betting/casino platform using React, Node.js, and TypeScript.
+
+- **Tech stack**  
+  `React` · `Node.js` · `TypeScript` · `C` · `Python`  
+  Continuously expanding my engineering depth while balancing academic rigor.
+
+- **Contact**  
+  [LinkedIn](https://www.linkedin.com/in/amen-allah-zoghlami-03416a1a5/)  · [Email](aymenzoglami123@gmail.com)
+
+---
+
+> *Building production-grade systems. Learning relentlessly.*
